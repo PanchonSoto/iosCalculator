@@ -7,7 +7,7 @@
 
 import React from 'react';
 import { StatusBar, View } from 'react-native';
-import { CalculatorScreen } from './presentation/components/screens/CalculatorScreen';
+import { CalculatorScreen } from './presentation/screens/CalculatorScreen';
 import { styles } from './config/theme/app-theme';
 
 
